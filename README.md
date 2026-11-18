@@ -4,9 +4,9 @@ An offline copy of the [Microbit More](https://microbit-more.github.io/) editor 
 
 ## Download
 
-👉 **[Download the latest zip from Releases](https://github.com/Jcfh772/microbit-more-offline/releases/latest)** (`MicrobitMore-Offline-Windows.zip`)
+👉 **[Download the zip (about 118 MB)](https://github.com/Jcfh772/microbit-more-offline/archive/refs/heads/main.zip)**
 
-Or click **Code → Download ZIP** on this page.
+This is the same as clicking **Code → Download ZIP** on this page.
 
 ## Quick start
 
